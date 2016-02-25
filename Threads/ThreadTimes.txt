@@ -1,0 +1,9 @@
+Total Threads:5 || Total Prime:100 || Elapsed Time:0.003618
+Total Threads:5 || Total Prime:100000 || Elapsed Time:3.135770
+Total Threads:5 || Total Prime:200000 || Elapsed Time:11.358658
+Total Threads:25 || Total Prime:100 || Elapsed Time:0.091165
+Total Threads:25 || Total Prime:100000 || Elapsed Time:15.826725
+Total Threads:25 || Total Prime:200000 || Elapsed Time:57.169679
+Total Threads:50 || Total Prime:100 || Elapsed Time:0.134096
+Total Threads:50 || Total Prime:100000 || Elapsed Time:31.132111
+Total Threads:50 || Total Prime:200000 || Elapsed Time:114.041190
